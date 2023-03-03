@@ -17,7 +17,7 @@ Luego arreglé los errores
 ![cap7](/capturas/cap7.png)
 
 Y finalicé con un
-console```
+```console
 git commit -m "Issues arreglados"
 ```
 
