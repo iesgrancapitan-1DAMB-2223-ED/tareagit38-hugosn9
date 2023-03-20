@@ -4,7 +4,7 @@ Primero he creado un archivo java.java con un error de sintaxis y de documentaci
 
 Luego me fui al repo de Toni y le escribí dos issues, uno de sintaxis y otro de documentación
 ![cap2](/capturas/cap2.png)
-![cap3](/captuas/cap3.png)
+![cap3](/capturas/cap3.png)
 
 Despues respondí a los issues que me hizo toni en mi repo y les puse las etiquetas
 ![cap4](/capturas/cap4.png)
